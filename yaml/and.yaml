@@ -18,7 +18,7 @@ spec:
         app: veni
     spec:
       containers:
-      - image: registry.rosish.me/veni:v.36
+      - image: registry.rosish.me/veni:v.37
         name: image
         ports:
         - containerPort: 3000
